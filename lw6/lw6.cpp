@@ -8,6 +8,7 @@
 
 int main() {
     setlocale(LC_ALL, "Russian");
+
     double pi = 0.0;
     double start_time, end_time;
 
